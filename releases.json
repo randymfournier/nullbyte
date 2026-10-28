@@ -3,6 +3,14 @@
   "gameId": "stardew-valley",
   "releases": [
     {
+      "uniqueId": "NullByte.ChestSweep",
+      "name": "NullByte ChestSweep",
+      "version": "0.3.2",
+      "downloadUrl": "https://github.com/randymfournier/nullbyte/releases/download/nb-nullbyte.chestsweep-v0.3.2/NullByte-ChestSweep_v0.3.2.zip",
+      "releaseNotes": "# NullByte ChestSweep v0.3.2\r\n\r\nChestSweep makes inventory cleanup easier: hold your configured Sweep Button to transfer stackable items into nearby chests that already contain that item.\r\n\r\n### Fixed in v0.3.2\r\n- Corrected the accessibility of the optional Generic Mod Config Menu integration interface.\r\n- No change to deposit logic or stored configuration is intended.\r\n\r\n### Highlights from recent updates\r\n- See individual deposited-item icons and quantities.\r\n- Change the sweep binding in-game, including controller bindings, with optional Generic Mod Config Menu.\r\n- Chests already in use are skipped.\r\n\r\n### Notes\r\n- Only matching items are deposited; the mod does not sort everything automatically.\r\n- Generic Mod Config Menu is optional. Check the settings menu after updating if you use it.",
+      "sha256": "ee0000699d8a8d8a00d7e5b602b858463df0668ca0823769e49b53402d9eb87c"
+    },
+    {
       "uniqueId": "NullByte.HandOff",
       "name": "NullByte HandOff",
       "version": "0.1.4",
