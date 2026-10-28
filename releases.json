@@ -11,6 +11,14 @@
       "sha256": "a465457c89ae5ce9eafa8d6406bb2b6d490f1b1f053d50eaca0dc2afd1f31fdc"
     },
     {
+      "uniqueId": "NullByte.MinersHelmet",
+      "name": "NullByte Miner\u0027s Helmet",
+      "version": "0.5.7",
+      "downloadUrl": "https://github.com/randymfournier/nullbyte/releases/download/nb-nullbyte.minershelmet-v0.5.7/NullByte-MinersHelmet_v0.5.7.zip",
+      "releaseNotes": "# NullByte Miner\u0027s Helmet v0.5.7\r\n\r\nTurn the vanilla Hard Hat or Skeleton Mask into a practical, directional headlamp for exploring dark areas.\r\n\r\n### Improved in v0.5.7\r\n- The beam reaches **35% farther** and spreads **45% wider** by default.\r\n- Both the visible cone and practical illumination receive the expanded coverage.\r\n- New settings allow you to tune the beam\u0027s length and width.\r\n\r\n### Previous improvements\r\n- Smooth, feathered lighting without the old rectangular transparency artifact.\r\n- Skeleton Mask detection uses the correct in-game item name and vanilla ID.\r\n- Optional multiplayer beam visibility when other players have the mod installed.\r\n\r\n### Important when updating\r\n- If you\u0027re upgrading from the old separate Skeleton/Skull Mask extension, remove that extension folder. Its functionality is integrated into Miner\u0027s Helmet.\r\n- Keep your existing \u0060config.json\u0060 to preserve preferences.",
+      "sha256": "6446cf5efff9646d880604041016ca469de7615d32ac921cb5f97f14da6dd49c"
+    },
+    {
       "uniqueId": "NullByte.Rodworks",
       "name": "NullByte Rodworks",
       "version": "0.5.3",
