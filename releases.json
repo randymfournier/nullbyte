@@ -11,6 +11,14 @@
       "sha256": "a465457c89ae5ce9eafa8d6406bb2b6d490f1b1f053d50eaca0dc2afd1f31fdc"
     },
     {
+      "uniqueId": "NullByte.Rodworks",
+      "name": "NullByte Rodworks",
+      "version": "0.5.3",
+      "downloadUrl": "https://github.com/randymfournier/nullbyte/releases/download/nb-nullbyte.rodworks-v0.5.3/NullByte-Rodworks_v0.5.3.zip",
+      "releaseNotes": "# NullByte Rodworks v0.5.3\r\n\r\nBuild customized fishing rods through Willy\u0027s new Rodworks service. Complete work orders, earn Tackle Components, and commission Reels, Lines, Grips, and Charms for your rods.\r\n\r\n### Fixed in v0.5.3\r\n- Improved spacing in the Rodworks upgrade screen so rod and equipped-part information does not overlap the navigation tabs.\r\n- Improved the interaction handoff when talking to Willy, avoiding the vanilla shop/dialogue briefly flashing first.\r\n\r\n### Highlights from recent updates\r\n- Willy offers **Shop / Upgrade Fishing Rod / Leave** after Rodworks unlocks.\r\n- The Beach board is for accepting jobs; completion and gold collection happen through Stardew\u0027s normal Journal.\r\n- Equip created components onto rods, with existing rod attachment data retained.\r\n\r\n### Notes\r\n- Rodworks progression begins after Willy\u0027s introduction and the configured Fishing-level requirement.",
+      "sha256": "2e042f8dce831f3889dce922889be52389a6066f4cc7a4ffff61c72ff43e1fa1"
+    },
+    {
       "uniqueId": "NullByte.Sprint",
       "name": "NullByte Sprint",
       "version": "0.1.5",
