@@ -3,6 +3,14 @@
   "gameId": "stardew-valley",
   "releases": [
     {
+      "uniqueId": "NullByte.HandOff",
+      "name": "NullByte HandOff",
+      "version": "0.1.4",
+      "downloadUrl": "https://github.com/randymfournier/nullbyte/releases/download/nb-nullbyte.handoff-v0.1.4/NullByte-HandOff_v0.1.4.zip",
+      "releaseNotes": "# NullByte HandOff v0.1.4\r\n\r\nChoose exactly how many items to give another player in Stardew Valley multiplayer, without handing over the entire stack.\r\n\r\n### Improved in v0.1.4\r\n- Reworked the quantity prompt with clearer spacing between the item details, amount controls, and action buttons.\r\n- Long item and player names now use a smaller-font fallback when needed.\r\n\r\n### Highlights from recent updates\r\n- Use **MAX**, arrow/controller controls, or type the quantity directly.\r\n- Keep the unselected items in your inventory.\r\n- The receiver still gets Stardew\u0027s normal accept/reject prompt.\r\n- The sender\u0027s items are not consumed until the gift is accepted.\r\n\r\n### Notes\r\n- Intended for stacked player-to-player gifts in multiplayer. Single-item interactions remain unchanged.",
+      "sha256": "cdbc3c54d57a2bec88756d5aa53c444f9156cfd1bf27f313839dbc61e9b68ead"
+    },
+    {
       "uniqueId": "NullByte.Husbandry",
       "name": "NullByte Husbandry",
       "version": "0.5.4",
