@@ -43,6 +43,14 @@
       "sha256": "6446cf5efff9646d880604041016ca469de7615d32ac921cb5f97f14da6dd49c"
     },
     {
+      "uniqueId": "NullByte.RanchTech",
+      "name": "NullByte RanchTech",
+      "version": "0.1.1",
+      "downloadUrl": "https://github.com/randymfournier/nullbyte/releases/download/nb-nullbyte.ranchtech-v0.1.1/NullByte-RanchTech_v0.1.1.zip",
+      "releaseNotes": "# \uD83D\uDC37 NullByte RanchTech v0.1.1\r\n\r\n### \u2699\uFE0F Smarter Farming, Less Running Around!\r\n\r\nTake your farm automation to the next level!\r\n\r\nNullByte RanchTech enhances the existing Auto-Grabber and introduces a craftable Auto-Petter, making animal care more convenient.\r\n\r\n### \u2728 Features\r\n\r\n**\uD83D\uDC37 Outdoor Truffle Collection**\r\n\r\n* Place regular Auto-Grabbers outside to automatically collect truffles.\r\n* Truffles are collected throughout the day as pigs discover them.\r\n* Newly spawned truffles trigger automatic collection.\r\n* Supports multiple outdoor Auto-Grabbers.\r\n* Deposits collected truffles directly into Auto-Grabber storage.\r\n* Leaves truffles on the ground when storage is unavailable.\r\n\r\n**\uD83C\uDF3E Configurable Collection Range**\r\n\r\n* New installations support collection across the entire main farm by default.\r\n* Optionally restrict collection to a specific radius.\r\n* Existing configurations retain their previously selected range.\r\n\r\n**\u2764\uFE0F Craftable Auto-Petter**\r\n\r\nUnlock the vanilla Auto-Petter crafting recipe at Farming Level 10!\r\n\r\n**Required Materials:**\r\n\r\n* 10 Iridium Bars\r\n* 5 Battery Packs\r\n* 25 Hardwood\r\n* 10 Refined Quartz\r\n\r\n### \uD83D\uDD27 What\u0027s Improved in v0.1.1\r\n\r\n* Added detection for truffles appearing throughout the day.\r\n* Improved automatic collection responsiveness.\r\n* Added periodic collection scans as a fallback.\r\n* Added diagnostic commands for troubleshooting.\r\n* Preserved existing indoor Auto-Grabber functionality.\r\n\r\n### \uD83C\uDFAE Compatibility\r\n\r\n* Stardew Valley 1.6\u002B\r\n* SMAPI 4.0\u002B\r\n* Multiplayer supported, with collection handled by the host.\r\n\r\n**Spend less time collecting truffles and more time enjoying your farm!** \uD83D\uDC3D\r\n\r\n*Created by NullByte.*",
+      "sha256": "840132f9daee8116aeaacb825ed9609ceb3c697234a63cad8876f085cb2fffd9"
+    },
+    {
       "uniqueId": "NullByte.Rodworks",
       "name": "NullByte Rodworks",
       "version": "0.5.3",
