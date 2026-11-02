@@ -59,6 +59,14 @@
       "sha256": "2e042f8dce831f3889dce922889be52389a6066f4cc7a4ffff61c72ff43e1fa1"
     },
     {
+      "uniqueId": "NullByte.SkillBars",
+      "name": "NullByte Skill Bars",
+      "version": "0.1.0",
+      "downloadUrl": "https://github.com/randymfournier/nullbyte/releases/download/nb-nullbyte.skillbars-v0.1.0/NullByte-SkillBars_v0.1.0.zip",
+      "releaseNotes": "# \uD83D\uDCCA NullByte Skill Bars v0.1.0\r\n\r\n### \u2B50 See Your Progress, Not Just Your Level!\r\n\r\nEver wondered how close you are to leveling up a skill?\r\n\r\nNullByte Skill Bars enhances Stardew Valley\u0027s existing Skills menu by adding XP progress bars beneath each skill.\r\n\r\n### \u2728 Features\r\n\r\n**\uD83D\uDCC8 Individual Skill Progress Bars**\r\n\r\nTrack experience directly within the Skills menu for:\r\n\r\n* \uD83C\uDF31 Farming\r\n* \u26CF\uFE0F Mining\r\n* \uD83C\uDF33 Foraging\r\n* \uD83C\uDFA3 Fishing\r\n* \u2694\uFE0F Combat\r\n\r\n**\uD83C\uDFA8 Vanilla-Inspired Design**\r\n\r\n* Green progress bars inspired by Stardew Valley\u0027s Mastery meter.\r\n* Integrated directly into the existing Skills menu.\r\n* Compact design that complements the original interface.\r\n\r\n**\uD83D\uDD22 Experience Tracking**\r\n\r\n* View your current XP progress toward the next level.\r\n* Automatically updates as you gain experience.\r\n* Displays a full **MAX** bar when a vanilla skill reaches Level 10.\r\n* Keeps the existing Mastery bar unchanged.\r\n\r\n**\u2699\uFE0F Customization**\r\n\r\n* Adjustable progress bar height and positioning.\r\n* Optional numerical XP display.\r\n* Configurable display of maxed-out skills.\r\n\r\n### \uD83C\uDFAE Compatibility\r\n\r\n* Stardew Valley 1.6\u002B\r\n* SMAPI 4.0\u002B\r\n* No additional mod dependencies.\r\n\r\n**Because every point of experience counts!** \u2B50\r\n\r\n*Created by NullByte.*",
+      "sha256": "f477ff12553bef5cc2fd2c5a7d5bccea16c9e8c966dd02bc7a3c8897273745ad"
+    },
+    {
       "uniqueId": "NullByte.Sprint",
       "name": "NullByte Sprint",
       "version": "0.1.5",
