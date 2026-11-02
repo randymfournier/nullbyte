@@ -19,6 +19,14 @@
       "sha256": "cdbc3c54d57a2bec88756d5aa53c444f9156cfd1bf27f313839dbc61e9b68ead"
     },
     {
+      "uniqueId": "NullByte.HorseTunes",
+      "name": "NullByte Horse Tunes",
+      "version": "0.1.0",
+      "downloadUrl": "https://github.com/randymfournier/nullbyte/releases/download/nb-nullbyte.horsetunes-v0.1.0/NullByte-HorseTunes_v0.1.0.zip",
+      "releaseNotes": "# \uD83D\uDC0E NullByte Horse Tunes v0.1.0\r\n\r\n### \uD83C\uDFB6 Saddle Up and Ride!\r\n\r\nGive your horseback adventures a proper soundtrack!\r\n\r\nIntroducing **Hoofbeat Highway**, an original Western-inspired riding theme that automatically plays whenever you hop onto your horse.\r\n\r\n### \u2728 Features\r\n\r\n* \uD83C\uDFB5 **Original Soundtrack:** Enjoy Hoofbeat Highway, a playful Western galloping theme.\r\n* \uD83D\uDC0E **Automatic Playback:** Music starts when you mount your horse.\r\n* \uD83D\uDD01 **Seamless Looping:** The soundtrack continues throughout your ride.\r\n* \uD83C\uDFB6 **Automatic Music Restoration:** Dismounting stops the theme and attempts to restore the previous music.\r\n* \uD83C\uDF9A\uFE0F **Volume Control:** Uses Stardew Valley\u0027s existing music volume settings.\r\n* \u2699\uFE0F **Configurable:** Enable or disable the riding theme and control how it behaves during cutscenes.\r\n\r\n### \uD83C\uDFAE Compatibility\r\n\r\n* Stardew Valley 1.6\u002B\r\n* SMAPI 4.0\u002B\r\n* Multiplayer compatible\r\n\r\n**Mount up, hit the trails, and let the adventure begin!** \uD83E\uDD20\r\n\r\n*Created by NullByte.*",
+      "sha256": "e9d88f40c532f4f98fa7a8768d6cd0e353ec08dce626f79f04c7b4cc60217a17"
+    },
+    {
       "uniqueId": "NullByte.Husbandry",
       "name": "NullByte Husbandry",
       "version": "0.5.5",
